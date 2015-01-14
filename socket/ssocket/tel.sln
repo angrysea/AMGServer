@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tel", "tel.vcproj", "{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugOpti|Win32 = DebugOpti|Win32
+		Release|Win32 = Release|Win32
+		ReleaseNopt|Win32 = ReleaseNopt|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.Debug|Win32.Build.0 = Debug|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.DebugOpti|Win32.ActiveCfg = DebugOpti|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.DebugOpti|Win32.Build.0 = DebugOpti|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.Release|Win32.ActiveCfg = Release|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.Release|Win32.Build.0 = Release|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.ReleaseNopt|Win32.ActiveCfg = ReleaseNopt|Win32
+		{F0CA38B1-4C7E-4422-BE2D-1A3F3E5AD937}.ReleaseNopt|Win32.Build.0 = ReleaseNopt|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

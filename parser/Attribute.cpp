@@ -1,0 +1,34 @@
+#include "Attribute.h"
+
+std::string PARSER_API Attribute::LNULLATTRIBUTE = "";
+std::string PARSER_API Attribute::LABSTRACT = "abstract";
+std::string PARSER_API Attribute::LATTRIBUTEFORMDEFAULT = "attributeformdefault";
+std::string PARSER_API Attribute::LBASE = "base";
+std::string PARSER_API Attribute::LBLOCK = "block";
+std::string PARSER_API Attribute::LBLOCKDEFAULT = "blockdefault";
+std::string PARSER_API Attribute::LELEMENTFORMDEFAULT = "elementformdefault";
+std::string PARSER_API Attribute::LFINAL = "fina";
+std::string PARSER_API Attribute::LFINALDEFAULT = "finaldefault";
+std::string PARSER_API Attribute::LFIXED = "fixed";
+std::string PARSER_API Attribute::LFORM = "form";
+std::string PARSER_API Attribute::LITEMTYPE = "itemtype";
+std::string PARSER_API Attribute::LMEMBERTYPES = "membertypes";
+std::string PARSER_API Attribute::LMAXOCCURS = "maxoccurs";
+std::string PARSER_API Attribute::LMINOCCURS = "minoccurs";
+std::string PARSER_API Attribute::LMIXED = "mixed";
+std::string PARSER_API Attribute::LNAME = "name";
+std::string PARSER_API Attribute::LNAMESPACE = "namespace";
+std::string PARSER_API Attribute::LNONAMESPACESCHEMALOCATION = "nonamespaceschemalocation";
+std::string PARSER_API Attribute::LXSINULL = "xsi:nul";
+std::string PARSER_API Attribute::LNULLABLE = "nullable";
+std::string PARSER_API Attribute::LPROCESSCONTENTS = "processcontents";
+std::string PARSER_API Attribute::LREF = "ref";
+std::string PARSER_API Attribute::LSCHEMALOCATION = "schemalocation,";
+std::string PARSER_API Attribute::LXSISCHEMALOCATION = "xsi:schemalocation";
+std::string PARSER_API Attribute::LSUBSTITUTIONGROUP = "substitutiongroup";
+std::string PARSER_API Attribute::LTARGETNAMESPACE = "targetnamespace";
+std::string PARSER_API Attribute::LTYPE = "type";
+std::string PARSER_API Attribute::LXSITYPE = "xsi:type";
+std::string PARSER_API Attribute::LUSE = "use";
+std::string PARSER_API Attribute::LVALUE = "value";
+std::string PARSER_API Attribute::LXPATH = "xpath";
